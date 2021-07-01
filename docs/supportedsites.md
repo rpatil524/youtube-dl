@@ -3,6 +3,7 @@
  - **20min**
  - **220.ro**
  - **23video**
+ - **247sports**
  - **24video**
  - **3qsdn**: 3Q SDN
  - **3sat**
@@ -118,7 +119,6 @@
  - **BitChuteChannel**
  - **BleacherReport**
  - **BleacherReportCMS**
- - **blinkx**
  - **Bloomberg**
  - **BokeCC**
  - **BongaCams**
@@ -160,7 +160,8 @@
  - **cbsnews**: CBS News
  - **cbsnews:embed**
  - **cbsnews:livevideo**: CBS News Live Videos
- - **CBSSports**
+ - **cbssports**
+ - **cbssports:embed**
  - **CCMA**
  - **CCTV**: 央视网
  - **CDA**
@@ -490,6 +491,7 @@
  - **mangomolo:live**
  - **mangomolo:video**
  - **ManyVids**
+ - **MaoriTV**
  - **Markiza**
  - **MarkizaPage**
  - **massengeschmack.tv**
@@ -710,6 +712,7 @@
  - **play.fm**
  - **player.sky.it**
  - **PlayPlusTV**
+ - **PlayStuff**
  - **PlaysTV**
  - **Playtvak**: Playtvak.cz, iDNES.cz and Lidovky.cz
  - **Playvid**
@@ -1159,7 +1162,7 @@
  - **WWE**
  - **XBef**
  - **XboxClips**
- - **XFileShare**: XFileShare based sites: Aparat, ClipWatching, GoUnlimited, GoVid, HolaVid, Streamty, TheVideoBee, Uqload, VidBom, vidlo, VidLocker, VidShare, VUp, XVideoSharing
+ - **XFileShare**: XFileShare based sites: Aparat, ClipWatching, GoUnlimited, GoVid, HolaVid, Streamty, TheVideoBee, Uqload, VidBom, vidlo, VidLocker, VidShare, VUp, WolfStream, XVideoSharing
  - **XHamster**
  - **XHamsterEmbed**
  - **XHamsterUser**
